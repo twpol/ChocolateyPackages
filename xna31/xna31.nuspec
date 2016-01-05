@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>xna31</id>
     <title>Microsoft XNA Framework Redistributable 3.1 (Install)</title>
-    <version>3.1</version>
+    <version>3.1.0.20160105</version>
     <authors>Microsoft</authors>
     <owners>James Ross</owners>
     <summary>The XNA Framework Redistributable download provides game developers with the XNA Framework run-time libraries they can include with their product for redistribution on Windows XP and Windows Vista.</summary>
@@ -16,7 +16,7 @@
     </description>
     <projectUrl>http://msdn2.microsoft.com/en-us/xna/default.aspx</projectUrl>
     <packageSourceUrl>https://www.microsoft.com/download/details.aspx?id=15163</packageSourceUrl>
-    <tags>xna31 admin</tags>
+    <tags>xna 31 redistributable</tags>
     <copyright></copyright>
     <licenseUrl>https://www.microsoft.com/en-us/legal/intellectualproperty/copyright</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
