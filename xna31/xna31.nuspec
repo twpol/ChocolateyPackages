@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>xna31</id>
+    <title>Microsoft XNA Framework Redistributable 3.1 (Install)</title>
+    <version>3.1</version>
+    <authors>Microsoft</authors>
+    <owners>James Ross</owners>
+    <summary>The XNA Framework Redistributable download provides game developers with the XNA Framework run-time libraries they can include with their product for redistribution on Windows XP and Windows Vista.</summary>
+    <description>
+    The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 3.1. This release contains improved functionality along with new features. Installation of this runtime is not necessary on systems that already have Microsoft XNA Game Studio 3.1 installed.
+
+    The End User License Agreement (EULA) for Microsoft XNA Game Studio 3.1 covers the terms under which developers may use the Redistributable. For full details, please review the Microsoft XNA Game Studio 3.1 EULA.
+    </description>
+    <projectUrl>http://msdn2.microsoft.com/en-us/xna/default.aspx</projectUrl>
+    <packageSourceUrl>https://www.microsoft.com/download/details.aspx?id=15163</packageSourceUrl>
+    <tags>xna31 admin</tags>
+    <copyright></copyright>
+    <licenseUrl>https://www.microsoft.com/en-us/legal/intellectualproperty/copyright</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
