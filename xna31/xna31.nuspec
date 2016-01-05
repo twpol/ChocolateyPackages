@@ -7,7 +7,7 @@
     <title>Microsoft XNA Framework Redistributable 3.1 (Install)</title>
     <version>3.1.0.20160105</version>
     <authors>Microsoft</authors>
-    <owners>James Ross</owners>
+    <owners>Microsoft</owners>
     <summary>The XNA Framework Redistributable download provides game developers with the XNA Framework run-time libraries they can include with their product for redistribution on Windows XP and Windows Vista.</summary>
     <description>
     The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 3.1. This release contains improved functionality along with new features. Installation of this runtime is not necessary on systems that already have Microsoft XNA Game Studio 3.1 installed.
