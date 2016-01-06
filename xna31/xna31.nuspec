@@ -16,10 +16,12 @@
     </description>
     <projectUrl>http://msdn2.microsoft.com/en-us/xna/default.aspx</projectUrl>
     <packageSourceUrl>https://www.microsoft.com/download/details.aspx?id=15163</packageSourceUrl>
-    <tags>xna 31 redistributable</tags>
+    <tags>xna 31 redistributable admin</tags>
     <copyright></copyright>
     <licenseUrl>https://www.microsoft.com/en-us/legal/intellectualproperty/copyright</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/twpol/ChocolateyPackages/master/xna31/xna31_icon.png</iconUrl>
+    <releaseNotes>https://www.microsoft.com/download/details.aspx?id=15163</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
