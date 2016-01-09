@@ -22,6 +22,9 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/twpol/ChocolateyPackages/master/xna31/xna31_icon.png</iconUrl>
     <releaseNotes>https://www.microsoft.com/download/details.aspx?id=15163</releaseNotes>
+    <dependencies>
+      <dependency id="dotnet3.5" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
